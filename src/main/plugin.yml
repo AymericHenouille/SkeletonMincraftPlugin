@@ -1,0 +1,6 @@
+name: SkeletonProject
+version: 1.0.0
+author: you
+main: fr.huminecraft.skeletonproject.SkeletonProject
+api-version: 1.15
+

@@ -1,0 +1,9 @@
+.idea
+.eclipse
+.gradle
+
+build
+libs/spigot-*.jar
+spigot
+server
+deployed
